@@ -15,3 +15,8 @@ LeetCode
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](./algorithms/python/ReverseInteger/ReverseInteger.py)|Medium|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Python](./algorithms/python/StringToInteger(atoi)/StringToInteger(atoi).py)|Medium|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./algorithms/python/PalindromeNumber/PalindromeNumber.py)|Easy|
+|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | |Hard|
+|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](./algorithms/python/ContainerWithMostWater/ContainerWithMostWater.py)|Medium|
+|12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Python](./algorithms/python/IntegerToRoman/IntegerToRoman.py)|Medium|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](./algorithms/python/RomanToInteger/RomanToInteger.py)|Easy|
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python](./algorithms/python/LongestCommonPrefix/LongestCommonPrefix.py)|Easy|
