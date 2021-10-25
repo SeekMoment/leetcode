@@ -20,3 +20,6 @@ LeetCode
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Python](./algorithms/python/IntegerToRoman/IntegerToRoman.py)|Medium|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](./algorithms/python/RomanToInteger/RomanToInteger.py)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python](./algorithms/python/LongestCommonPrefix/LongestCommonPrefix.py)|Easy|
+|15|[3Sum](https://leetcode.com/problems/3sum/) | [Python](./algorithms/python/3Sum/3Sum.py)|Medium|
+|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Python](./algorithms/python/3SumClosest/3SumClosest.py)|Medium|
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python](./algorithms/python/LetterCombinationsOfAPhoneNumber/LetterCombinationsOfAPhoneNumber.py)|Medium|
