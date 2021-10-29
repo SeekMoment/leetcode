@@ -28,3 +28,17 @@ LeetCode
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](./algorithms/python/ValidParentheses/ValidParentheses.py)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | |Easy|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](./algorithms/python/GenerateParentheses/GenerateParentheses.py)|Medium|
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python](./algorithms/python/MergeKSortedLists/MergeKSortedLists.py)|Hard|
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python](./algorithms/python/SwapNodesInPairs/SwapNodesInPairs.py)|Medium|
+|25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | |Hard|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](./algorithms/python/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.py)|Easy|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/) | [Python](./algorithms/python/RemoveElement/RemoveElement.py)|Easy|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Python](./algorithms/python/ImplementStrStr()/ImplementStrStr().py)|Easy|
+|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [Python](./algorithms/python/DivideTwoIntegers/DivideTwoIntegers.py)|Medium|
+|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | |Hard|
+|31|[Next Permutation](https://leetcode.com/problems/next-permutation/) | |Medium|
+|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Python](./algorithms/python/LongestValidParentheses/LongestValidParentheses.py)|Hard|
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](./algorithms/python/SearchInRotatedSortedArray/SearchInRotatedSortedArray.py)|Medium|
+|34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python](./algorithms/python/FindFirstAndLastPositionOfElementInSortedArray/FindFirstAndLastPositionOfElementInSortedArray.py)|Medium|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./algorithms/python/SearchInsertPosition/SearchInsertPosition.py)|Easy|
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python](./algorithms/python/ValidSudoku/ValidSudoku.py)|Medium|
