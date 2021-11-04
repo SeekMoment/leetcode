@@ -42,3 +42,17 @@ LeetCode
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python](./algorithms/python/FindFirstAndLastPositionOfElementInSortedArray/FindFirstAndLastPositionOfElementInSortedArray.py)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./algorithms/python/SearchInsertPosition/SearchInsertPosition.py)|Easy|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python](./algorithms/python/ValidSudoku/ValidSudoku.py)|Medium|
+|37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [](./algorithms/python/SudokuSolver/SudokuSolver.py)|Hard|
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/) | [](./algorithms/python/CountAndSay/CountAndSay.py)|Medium|
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum/) | [Python](./algorithms/python/CombinationSum/CombinationSum.py)|Medium|
+|40|[Combination Sum 2](https://leetcode.com/problems/combination-sum-ii/) | [Python](./algorithms/python/CombinationSum2/CombinationSum2.py)|Medium|
+|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Python](./algorithms/python/FirstMissingPositive/FirstMissingPositive.py)|Hard|
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](./algorithms/python/TrappingRainWater/TrappingRainWater.py)|Hard|
+|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Python](./algorithms/python/MultiplyStrings/MultiplyStrings.py)|Medium|
+|44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [](./algorithms/python/WildcardMatching/WildcardMatching.py)|Hard|
+|45|[Jump Game 2](https://leetcode.com/problems/jump-game-ii/) | [Python](./algorithms/python/JumpGame2/JumpGame2.py)|Medium|
+|46|[Permutations](https://leetcode.com/problems/permutations/) | [Python](./algorithms/python/Permutations/Permutations.py)|Medium|
+|47|[Permutations 2](https://leetcode.com/problems/permutations-ii/) | [](./algorithms/python/Permutations2/Permutations2.py)|Medium|
+|48|[Rotate Image](https://leetcode.com/problems/rotate-image/) | [Python](./algorithms/python/RotateImage/RotateImage.py)|Medium|
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](./algorithms/python/GroupAnagrams/GroupAnagrams.py)|Medium|
+|50|[Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Python](./algorithms/python/Pow(x,n)/Pow(x,n).py)|Medium|
