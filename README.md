@@ -56,3 +56,7 @@ LeetCode
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/) | [Python](./algorithms/python/RotateImage/RotateImage.py)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](./algorithms/python/GroupAnagrams/GroupAnagrams.py)|Medium|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Python](./algorithms/python/Pow(x,n)/Pow(x,n).py)|Medium|
+|51|[N-Queens](https://leetcode.com/problems/n-queens/) | [](./algorithms/python/NQueens/NQueens.py)|Hard|
+|52|[N-Queens 2](https://leetcode.com/problems/n-queens-ii/) | [](./algorithms/python/NQueens2/NQueens2.py)|Hard|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./algorithms/python/MaximumSubarray/MaximumSubarray.py)|Easy|
+|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Python](./algorithms/python/SpiralMatrix/SpiralMatrix.py)|Medium|
