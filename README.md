@@ -60,3 +60,10 @@ LeetCode
 |52|[N-Queens 2](https://leetcode.com/problems/n-queens-ii/) | [](./algorithms/python/NQueens2/NQueens2.py)|Hard|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./algorithms/python/MaximumSubarray/MaximumSubarray.py)|Easy|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Python](./algorithms/python/SpiralMatrix/SpiralMatrix.py)|Medium|
+|55|[Jump Game](https://leetcode.com/problems/jump-game/) | [Python](./algorithms/python/JumpGame/JumpGame.py)|Medium|
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Python](./algorithms/python/MergeIntervals/MergeIntervals.py)|Medium|
+|57|[Insert Interval](https://leetcode.com/problems/insert-interval/) | [Python](./algorithms/python/InsertInterval/InsertInterval.py)|Medium|
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](./algorithms/python/LengthOfLastWord/LengthOfLastWord.py)|Easy|
+|59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Python](./algorithms/python/SpiralMatrix2/SpiralMatrix2.py)|Medium|
+
+
