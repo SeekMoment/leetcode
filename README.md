@@ -65,5 +65,8 @@ LeetCode
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/) | [Python](./algorithms/python/InsertInterval/InsertInterval.py)|Medium|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](./algorithms/python/LengthOfLastWord/LengthOfLastWord.py)|Easy|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Python](./algorithms/python/SpiralMatrix2/SpiralMatrix2.py)|Medium|
-
-
+|60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [](./algorithms/python/PermutationSequence/PermutationSequence.py)|Hard|
+|61|[Rotate List](https://leetcode.com/problems/rotate-list/) | [Python](./algorithms/python/RotateList/RotateList.py)|Medium|
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python](./algorithms/python/UniquePaths/UniquePaths.py)|Medium|
+|63|[Unique Paths 2](https://leetcode.com/problems/unique-paths-ii/) | [Python](./algorithms/python/UniquePaths2/UniquePaths2.py)|Medium|
+|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](./algorithms/python/MinimumPathSum/MinimumPathSum.py)|Medium|
