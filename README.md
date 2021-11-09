@@ -70,3 +70,9 @@ LeetCode
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python](./algorithms/python/UniquePaths/UniquePaths.py)|Medium|
 |63|[Unique Paths 2](https://leetcode.com/problems/unique-paths-ii/) | [Python](./algorithms/python/UniquePaths2/UniquePaths2.py)|Medium|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](./algorithms/python/MinimumPathSum/MinimumPathSum.py)|Medium|
+|65|[Valid Number](https://leetcode.com/problems/valid-number/) | [](./algorithms/python/ValidNumber/ValidNumber.py)|Hard|
+|66|[Plus One](https://leetcode.com/problems/plus-one/) | [Python](./algorithms/python/PlusOne/PlusOne.py)|Easy|
+|67|[Add Binary](https://leetcode.com/problems/add-binary/) | [Python](./algorithms/python/AddBinary/AddBinary.py)|Easy|
+|68|[Text Justification](https://leetcode.com/problems/text-justification/) | [Python](./algorithms/python/TextJustification/TextJustification.py)|Hard|
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Python](./algorithms/python/Sqrt(x)/Sqrt(x).py)|Easy|
+|70|[ClimbingStairs](https://leetcode.com/problems/climbing-stairs/) | [Python](./algorithms/python/ClimbingStairs/ClimbingStairs.py)|Easy|
