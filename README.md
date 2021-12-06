@@ -76,3 +76,7 @@ LeetCode
 |68|[Text Justification](https://leetcode.com/problems/text-justification/) | [Python](./algorithms/python/TextJustification/TextJustification.py)|Hard|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Python](./algorithms/python/Sqrt(x)/Sqrt(x).py)|Easy|
 |70|[ClimbingStairs](https://leetcode.com/problems/climbing-stairs/) | [Python](./algorithms/python/ClimbingStairs/ClimbingStairs.py)|Easy|
+|71|[Simplify Path](https://leetcode.com/problems/simplify-path/) | [](./algorithms/python/SimplifyPath/SimplifyPath.py)|Medium|
+|72|[Edit Distance](https://leetcode.com/problems/edit-distance/) | [](./algorithms/python/EditDistance/EditDistance.py)|Hard|
+|73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Python](./algorithms/python/SetMatrixZeroes/SetMatrixZeroes.py)|Medium|
+|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Python](./algorithms/python/Search2DMatrix/Search2DMatrix.py)|Medium|
