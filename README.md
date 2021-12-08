@@ -82,3 +82,5 @@ LeetCode
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Python](./algorithms/python/Search2DMatrix/Search2DMatrix.py)|Medium|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/) | [Python](./algorithms/python/SortColors/SortColors.py)|Medium|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Python](./algorithms/python/MinimumWindowSubstring/MinimumWindowSubstring.py)|Hard|
+|77|[Combinations](https://leetcode.com/problems/combinations/) | [Python](./algorithms/python/Combinations/Combinations.py)|Medium|
+|78|[Subsets](https://leetcode.com/problems/subsets/) | [Python](./algorithms/python/Subsets/Subsets.py)|Medium|
